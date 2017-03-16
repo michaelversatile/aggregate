@@ -2,7 +2,7 @@
     <command id="cmd.makeScreenshot">
         <pattern value="[*дела*|сними|снять|сфот*] (скриншот|фотограф*) [текущег*] [экран*]"/>
         <command id="cmd.makeScreenshot">
-            <pattern value="[и] (ещё|еще) один *"/>
+            <pattern value="[и] (ещё|еще) (раз|один) *"/>
         </command>
     </command>
 </module>
